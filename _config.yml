@@ -49,15 +49,13 @@ orcid_username: 0009-0007-1481-7723
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Hoonseok Yoon and I'm a student from South Korea.
-  # Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: text
         title: Yonsei University, Wonju, South Korea
         caption: 03/2021 - 02/2025
         sub_title: Bachelor of Science (B.S.) in Digital Healthcare and Advanced Digital Healthcare
@@ -86,10 +84,7 @@ content:
             **Activities**
             - Campus Tutor for Introductory Liberal Arts Courses (Computational Thinking (Python)), Spring Semester 2023, Software Tutoring Program
             - 25th Summer University Student Talent Volunteer Camp, 2022, University Volunteer Camp
-            # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-  
-            # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+           
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
