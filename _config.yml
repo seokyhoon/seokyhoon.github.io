@@ -113,8 +113,9 @@ content:
             - Applied deep learning techniques, including CNN and generative AI, to enhance image segmentation and disease detection accuracy.
   
   - title: Project Experience
-    layout: list
-    content:
+    layout: text
+    content: |
+    
       - layout: text
         title: Development of Automatic Spine Level Segmentation Software Using AI
         caption: 03/2024 - 11/2024
