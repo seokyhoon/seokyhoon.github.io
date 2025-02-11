@@ -92,6 +92,7 @@ content:
  
   - title: Publications
     layout: list
+    align : center
     content:
       - layout: text
         title: "Assessing machine learning models for predicting age with intracranial vessel tortuosity and thickness information"
