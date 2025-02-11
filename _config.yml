@@ -71,7 +71,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-            **Honors**
+            **Honors and Awards**
             - Scholarship for academic excellence (2024)
             - Merit-based scholarship for SW majors (2023, 2024)
             - Data Impact Global Startup Camp, IR Competition, Grand Award (2023)
@@ -91,7 +91,7 @@ content:
             - 25th Summer University Student Talent Volunteer Camp, 2022, University Volunteer Camp
  
   - title: Publications
-    layout: list
+    layout: text
     content:
       - layout: text
         title: "Assessing machine learning models for predicting age with intracranial vessel tortuosity and thickness information"
@@ -174,7 +174,7 @@ content:
             - Designed an application using JavaScript and developed a database system to store biometric and driving data.
   
   - title: Personal
-    layout: list
+    layout: text
     content:
       - layout: text
         title: Programming Languages
