@@ -91,14 +91,20 @@ content:
             - 25th Summer University Student Talent Volunteer Camp, 2022, University Volunteer Camp
  
   - title: Publications
-    layout: text
-    content: |
-      - **Assessing machine learning models for predicting age with intracranial vessel tortuosity and thickness information** (Published in: Brain Sciences 13.11 (2023): 1512)
-      **Yoon, Hoon-Seok**, Jeongmin Oh, and Yoon-Chul Kim
-      
-
-      - **Machine learning-based age prediction with feature subset selection from MR angiography data**  (Status: In revision)
-      **Yoon, Hoon-Seok**, Yoon-Chul Kim
+    layout: list
+    content:
+      - layout: text
+        title: "Assessing machine learning models for predicting age with intracranial vessel tortuosity and thickness information"
+        description: |
+          **Published in**: Brain Sciences 13.11 (2023): 1512  
+          
+          **Yoon, Hoon-Seok**, Jeongmin Oh, and Yoon-Chul Kim
+      - layout: text
+        title: "Machine learning-based age prediction with feature subset selection from MR angiography data"
+        description: |
+          Status: In revision  
+                
+          **Yoon, Hoon-Seok**, Yoon-Chul Kim
       
 
   - title: Work Experience
