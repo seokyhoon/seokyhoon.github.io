@@ -172,28 +172,17 @@ content:
             - Designed an application using JavaScript and developed a database system to store biometric and driving data.
   
   - title: Personal
-    layout: list
-    content:
-      - layout: text
-        title: Programming Languages
-        description: Python, C, Java
-  
-      - layout: text
-        title: Machine Learning & Deep Learning Technologies
-        description: Experience with ML models, deep learning frameworks, CNNs, RNNs, and generative AI.
-  
-      - layout: text
-        title: Big Data Analysis Tools
-        description: Experience with data processing, feature engineering, and ML model evaluation.
-  
-      - layout: text
-        title: Communication Skills
-        description: Strong presentation and teamwork abilities, demonstrated through research and project collaborations.
-  
-      - layout: text
-        title: Team Collaboration
-        description: Experience leading and participating in multi-disciplinary AI projects.         
-        
+    layout: text
+    content: |
+      - **Programming Languages(e.g., Python, C language, Java)
+      
+      - **Machine Learning, Deep Learning Technologies**
+      
+      - **Big Data Analysis Tools**
+      
+      - **Communication Skills**
+      
+      - **Team Collaboration**
 
 # Footer
 footer_show_references: true
