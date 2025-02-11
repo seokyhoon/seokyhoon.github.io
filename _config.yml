@@ -91,7 +91,7 @@ content:
             - 25th Summer University Student Talent Volunteer Camp, 2022, University Volunteer Camp
  
   - title: Publications
-    layout: text
+    layout: list
     content:
       - layout: text
         title: "Assessing machine learning models for predicting age with intracranial vessel tortuosity and thickness information"
@@ -174,7 +174,7 @@ content:
             - Designed an application using JavaScript and developed a database system to store biometric and driving data.
   
   - title: Personal
-    layout: text
+    layout: list
     content:
       - layout: text
         title: Programming Languages
