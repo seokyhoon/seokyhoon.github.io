@@ -95,14 +95,13 @@ content:
     content: |
       ## 1. **Assessing Machine Learning Models for Predicting Age with Intracranial Vessel Tortuosity and Thickness Information**  
       **📖 Published in**: *Brain Sciences 13.11 (2023): 1512*  
-
-
-
-      **Authors**: <u>**Hoon-Seok Yoon**</u>, Jeongmin Oh, and Yoon-Chul Kim  
+      
+      **Authors**: <u><strong>Hoon-Seok Yoon</strong></u>, Jeongmin Oh, and Yoon-Chul Kim  
+      
       ## 2. **Machine Learning-Based Age Prediction with Feature Subset Selection from MR Angiography Data**  
       **📌 Status**: In revision  
 
-      **Authors**: <u>**Hoon-Seok Yoon**</u>, Yoon-Chul Kim  
+      **Authors**: <u><strong>Hoon-Seok Yoon</strong></u>, Yoon-Chul Kim  
 
   - title: Work Experience
     layout: list
