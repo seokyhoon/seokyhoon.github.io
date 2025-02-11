@@ -95,7 +95,7 @@ content:
     content:
       - layout: text
         title: "Assessing machine learning models for predicting age with intracranial vessel tortuosity and thickness information"
-        caption: Brain Sciences 13.11 (2023): 1512
+        caption: "Brain Sciences 13.11 (2023): 1512"
         sub_title: Yoon, Hoon-Seok, Jeongmin Oh, and Yoon-Chul Kim
   
       - layout: text
