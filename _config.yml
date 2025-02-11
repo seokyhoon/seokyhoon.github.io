@@ -63,11 +63,11 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
             **Honors**
-            - **Scholarship for academic excellence (2024)**
-            - **Merit-based scholarship for SW majors (2023, 2024)**
-            - **Data Impact Global Startup Camp, IR Competition, Grand Award (2023)**
-            - **Busan National Smart IoT Competition, Encouragement Award (2022)**
-            - **Lifelog Big Data Utilization and Proposal Hackathon, Encouragement Award (2022)**
+            - Scholarship for academic excellence (2024)
+            - Merit-based scholarship for SW majors (2023, 2024)
+            - Data Impact Global Startup Camp, IR Competition, Grand Award (2023)
+            - Busan National Smart IoT Competition, Encouragement Award (2022)
+            - Lifelog Big Data Utilization and Proposal Hackathon, Encouragement Award (2022)
       
             **Research Interests**
             - Deep learning applications in medical imaging and digital healthcare
@@ -75,11 +75,7 @@ content:
             - Generative AI and medical image processing
       
             **Selected Coursework**
-            - Introduction of Database System, Artificial Intelligence
-            - Medical Artificial Intelligence, Image Processing
-            - Digital Signal Processing, Python Programming
-            - Java Programming, Open Software and Linux
-            - Operating System, SW Engineer Seminar
+            - Introduction of Database System, Artificial Intelligence, Medical Artificial Intelligence, Image Processing, Digital Signal Processing, Python Programming, Java Programming, Open Software and Linux, Operating System, SW Engineer Seminar
       
             **Activities**
             - Campus Tutor for Introductory Liberal Arts Courses (Computational Thinking (Python)), Spring Semester 2023, Software Tutoring Program
