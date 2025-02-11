@@ -126,21 +126,21 @@ content:
       - Collaborated on an industry-academic project to develop a deep learning algorithm for automatic spine level identification using CT images, improving the F1 score by 0.15.  
       - Verified results with pre-trained models (DenseNet121, EfficientNetB0, ResNet34) and enhanced accuracy using data augmentation techniques like diffusion models and GANs.  
 
-      ---
+    
 
       ## 2. **Non-Seen Handwritten Letter Image Sorting**  
       **📅 03/2024 - 06/2024 | 🎭 Developer**  
       - Created an AI system to classify handwritten letter sequences using CNN and RNN, refining network structures through extensive experiments.  
       - Implemented LSTM networks for sequential data, improving validation accuracy, and optimized parameters like batch size, hidden size, and dropout rate via hyperparameter tuning.  
 
-      ---
+   
 
       ## 3. **ML-Based Age Prediction from MR Angiography Data**  
       **📅 11/2023 - 05/2024 | 🎭 Developer for MAI Lab**  
       - Evaluated ML model performance using feature selection methods (CFS, Relief-F) to create feature subsets, with CFS yielding superior results.  
       - Analyzed key features influencing the model and utilized SHAP plots to visualize feature relationships.  
 
-      ---
+ 
 
       ## 4. **Deep Learning Project in ECG Classification**  
       **📅 10/2023 - 12/2023 | 🎭 Team Leader & Presenter**  
