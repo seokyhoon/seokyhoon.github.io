@@ -121,62 +121,53 @@ content:
   - title: Project Experience
     layout: text
     content: |
-    
-      - layout: text
-        title: Development of Automatic Spine Level Segmentation Software Using AI
-        caption: 03/2024 - 11/2024
-        sub_title: Team Member & Presenter
-        description: |
-            - Collaborated on an industry-academic project to develop a deep learning algorithm for automatic spine level identification using CT images, improving the F1 score by 0.15.
-            - Verified results with pre-trained models (DenseNet121, EfficientNetB0, ResNet34) and enhanced accuracy using data augmentation techniques like diffusion models and GANs.
-  
-      - layout: text
-        title: Non-Seen Handwritten Letter Image Sorting
-        caption: 03/2024 - 06/2024
-        sub_title: Developer
-        description: |
-            - Created an AI system to classify handwritten letter sequences using CNN and RNN, refining network structures through extensive experiments.
-            - Implemented LSTM networks for sequential data, improving validation accuracy, and optimized parameters like batch size, hidden size, and dropout rate via hyperparameter tuning.
-  
-      - layout: text
-        title: ML Based Age Prediction from MR Angiography Data
-        caption: 11/2023 - 05/2024
-        sub_title: Developer for MAI Lab
-        description: |
-            - Evaluated ML model performance using feature selection methods (CFS, Relief-F) to create feature subsets, with CFS yielding superior results.
-            - Analyzed key features influencing the model and utilized SHAP plots to visualize feature relationships.
-  
-      - layout: text
-        title: Deep Learning Project in ECG Classification
-        caption: 10/2023 - 12/2023
-        sub_title: Team Leader & Presenter
-        description: |
-            - Integrated BLSTM networks to capture temporal patterns in ECG data, achieving a slight accuracy improvement over the baseline model.
-            - Evaluated pre-trained models to optimize arrhythmia detection, selecting the best model based on F1 score.
-  
-      - layout: text
-        title: Medical Big Data Analytics Project
-        caption: 09/2023 - 04/2024
-        sub_title: Team Leader & Presenter
-        description: |
-            - Analyzed aging patterns using NHIS data, focusing on blood glucose and cholesterol level changes across age groups.
-            - Developed a regression model for age prediction, using SHAP to interpret key health features associated with aging.
-  
-      - layout: text
-        title: Assessing Machine Learning Models for Predicting Age
-        caption: 01/2023 - 10/2023
-        sub_title: Team Member
-        description: |
-            - Developed six ML models, including Random Forest, Linear Regression, and XGBoost, to predict age using MRA data features (e.g., vessel tortuosity and diameter).
-            - Led feature engineering, cross-validation, and hyperparameter tuning, improving RMSE and R² model performance.
-  
-      - layout: text
-        title: Research on EEG-Based Technology to Improve Drivers' Cognitive Abilities
-        caption: 03/2023 - 06/2023
-        sub_title: Developer
-        description: |
-            - Analyzed EEG data to detect patterns of cognitive impairment in drivers, identifying signs of impaired driving.
-            - Designed an application using JavaScript and developed a database system to store biometric and driving data.
+      ## 1. **Development of Automatic Spine Level Segmentation Software Using AI**  
+      **📅 03/2024 - 11/2024 | 🎭 Team Member & Presenter**  
+      - Collaborated on an industry-academic project to develop a deep learning algorithm for automatic spine level identification using CT images, improving the F1 score by 0.15.  
+      - Verified results with pre-trained models (DenseNet121, EfficientNetB0, ResNet34) and enhanced accuracy using data augmentation techniques like diffusion models and GANs.  
+
+      ---
+
+      ## 2. **Non-Seen Handwritten Letter Image Sorting**  
+      **📅 03/2024 - 06/2024 | 🎭 Developer**  
+      - Created an AI system to classify handwritten letter sequences using CNN and RNN, refining network structures through extensive experiments.  
+      - Implemented LSTM networks for sequential data, improving validation accuracy, and optimized parameters like batch size, hidden size, and dropout rate via hyperparameter tuning.  
+
+      ---
+
+      ## 3. **ML-Based Age Prediction from MR Angiography Data**  
+      **📅 11/2023 - 05/2024 | 🎭 Developer for MAI Lab**  
+      - Evaluated ML model performance using feature selection methods (CFS, Relief-F) to create feature subsets, with CFS yielding superior results.  
+      - Analyzed key features influencing the model and utilized SHAP plots to visualize feature relationships.  
+
+      ---
+
+      ## 4. **Deep Learning Project in ECG Classification**  
+      **📅 10/2023 - 12/2023 | 🎭 Team Leader & Presenter**  
+      - Integrated BLSTM networks to capture temporal patterns in ECG data, achieving a slight accuracy improvement over the baseline model.  
+      - Evaluated pre-trained models to optimize arrhythmia detection, selecting the best model based on F1 score.  
+
+      ---
+
+      ## 5. **Medical Big Data Analytics Project**  
+      **📅 09/2023 - 04/2024 | 🎭 Team Leader & Presenter**  
+      - Analyzed aging patterns using NHIS data, focusing on blood glucose and cholesterol level changes across age groups.  
+      - Developed a regression model for age prediction, using SHAP to interpret key health features associated with aging.  
+
+      ---
+
+      ## 6. **Assessing Machine Learning Models for Predicting Age**  
+      **📅 01/2023 - 10/2023 | 🎭 Team Member**  
+      - Developed six ML models, including Random Forest, Linear Regression, and XGBoost, to predict age using MRA data features (e.g., vessel tortuosity and diameter).  
+      - Led feature engineering, cross-validation, and hyperparameter tuning, improving RMSE and R² model performance.  
+
+      ---
+
+      ## 7. **Research on EEG-Based Technology to Improve Drivers' Cognitive Abilities**  
+      **📅 03/2023 - 06/2023 | 🎭 Developer**  
+      - Analyzed EEG data to detect patterns of cognitive impairment in drivers, identifying signs of impaired driving.  
+      - Designed an application using JavaScript and developed a database system to store biometric and driving data.  
+
   
   - title: Personal
     layout: text
