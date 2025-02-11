@@ -49,6 +49,15 @@ orcid_username: 0009-0007-1481-7723
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Hoonseok Yoon and I'm a student from South Korea.
+
+  A highly motivated and detail-oriented student specializing in Digital Healthcare at the College of Software and Digital Healthcare, with a strong foundation in software development, big data analysis, and AI applications. Possesses hands-on experience in developing software solutions and analyzing complex datasets to drive innovation in healthcare technologies. 
+
+  I have actively participated in AI-driven medical research projects, focusing on deep learning applications in medical imaging, predictive modeling, and healthcare data analytics. My experience includes developing ML models for age prediction, disease detection, and medical image segmentation using state-of-the-art machine learning techniques, including CNNs, LSTMs, and generative AI. 
+
+  Beyond academics and research, I am deeply passionate about exploring innovative ways to bridge the gap between AI and practical healthcare applications. I enjoy tackling challenging problems, experimenting with new AI models, and leveraging data-driven insights to improve healthcare solutions. 
+
+  Outside of work and studies, I have a strong passion for sports, including soccer and golf. I also love driving and listening to music, which helps me relax and stay inspired. These hobbies allow me to maintain a balanced and creative mindset while continuously pushing myself to achieve new goals.
+
   
 
 content:
@@ -82,111 +91,111 @@ content:
             - 25th Summer University Student Talent Volunteer Camp, 2022, University Volunteer Camp
  
  - title: Publications
-  layout: list
-  content:
-    - layout: text
-      title: "Assessing machine learning models for predicting age with intracranial vessel tortuosity and thickness information"
-      caption: Brain Sciences 13.11 (2023): 1512
-      sub_title: Yoon, Hoon-Seok, Jeongmin Oh, and Yoon-Chul Kim
+   layout: list
+   content:
+      - layout: text
+        title: "Assessing machine learning models for predicting age with intracranial vessel tortuosity and thickness information"
+        caption: Brain Sciences 13.11 (2023): 1512
+        sub_title: Yoon, Hoon-Seok, Jeongmin Oh, and Yoon-Chul Kim
+  
+      - layout: text
+        title: "Machine learning-based age prediction with feature subset selection from MR angiography data"
+        caption: In revision
+        sub_title: Yoon, Hoon-Seok, Yoon-Chul Kim
 
-    - layout: text
-      title: "Machine learning-based age prediction with feature subset selection from MR angiography data"
-      caption: In revision
-      sub_title: Yoon, Hoon-Seok, Yoon-Chul Kim
-
-- title: Work Experience
-  layout: list
-  content:
-    - layout: text
-      title: Medical Artificial Intelligence (MAI) Lab, Wonju, South Korea
-      caption: 12/2022 - Present
-      sub_title: Undergraduate Researcher
-      description: |
-          - Developed and implemented ML models to analyze medical data (including over 160 CT image series, 600 MR brain images, and ECG and EEG data) for age prediction, heart disease detection, and anomaly detection.
-          - Applied deep learning techniques, including CNN and generative AI, to enhance image segmentation and disease detection accuracy.
-
-- title: Project Experience
-  layout: list
-  content:
-    - layout: text
-      title: Development of Automatic Spine Level Segmentation Software Using AI
-      caption: 03/2024 - 11/2024
-      sub_title: Team Member & Presenter
-      description: |
-          - Collaborated on an industry-academic project to develop a deep learning algorithm for automatic spine level identification using CT images, improving the F1 score by 0.15.
-          - Verified results with pre-trained models (DenseNet121, EfficientNetB0, ResNet34) and enhanced accuracy using data augmentation techniques like diffusion models and GANs.
-
-    - layout: text
-      title: Non-Seen Handwritten Letter Image Sorting
-      caption: 03/2024 - 06/2024
-      sub_title: Developer
-      description: |
-          - Created an AI system to classify handwritten letter sequences using CNN and RNN, refining network structures through extensive experiments.
-          - Implemented LSTM networks for sequential data, improving validation accuracy, and optimized parameters like batch size, hidden size, and dropout rate via hyperparameter tuning.
-
-    - layout: text
-      title: ML Based Age Prediction from MR Angiography Data
-      caption: 11/2023 - 05/2024
-      sub_title: Developer for MAI Lab
-      description: |
-          - Evaluated ML model performance using feature selection methods (CFS, Relief-F) to create feature subsets, with CFS yielding superior results.
-          - Analyzed key features influencing the model and utilized SHAP plots to visualize feature relationships.
-
-    - layout: text
-      title: Deep Learning Project in ECG Classification
-      caption: 10/2023 - 12/2023
-      sub_title: Team Leader & Presenter
-      description: |
-          - Integrated BLSTM networks to capture temporal patterns in ECG data, achieving a slight accuracy improvement over the baseline model.
-          - Evaluated pre-trained models to optimize arrhythmia detection, selecting the best model based on F1 score.
-
-    - layout: text
-      title: Medical Big Data Analytics Project
-      caption: 09/2023 - 04/2024
-      sub_title: Team Leader & Presenter
-      description: |
-          - Analyzed aging patterns using NHIS data, focusing on blood glucose and cholesterol level changes across age groups.
-          - Developed a regression model for age prediction, using SHAP to interpret key health features associated with aging.
-
-    - layout: text
-      title: Assessing Machine Learning Models for Predicting Age
-      caption: 01/2023 - 10/2023
-      sub_title: Team Member
-      description: |
-          - Developed six ML models, including Random Forest, Linear Regression, and XGBoost, to predict age using MRA data features (e.g., vessel tortuosity and diameter).
-          - Led feature engineering, cross-validation, and hyperparameter tuning, improving RMSE and R² model performance.
-
-    - layout: text
-      title: Research on EEG-Based Technology to Improve Drivers' Cognitive Abilities
-      caption: 03/2023 - 06/2023
-      sub_title: Developer
-      description: |
-          - Analyzed EEG data to detect patterns of cognitive impairment in drivers, identifying signs of impaired driving.
-          - Designed an application using JavaScript and developed a database system to store biometric and driving data.
-
-- title: Personal
-  layout: list
-  content:
-    - layout: text
-      title: Programming Languages
-      description: Python, C, Java
-
-    - layout: text
-      title: Machine Learning & Deep Learning Technologies
-      description: Experience with ML models, deep learning frameworks, CNNs, RNNs, and generative AI.
-
-    - layout: text
-      title: Big Data Analysis Tools
-      description: Experience with data processing, feature engineering, and ML model evaluation.
-
-    - layout: text
-      title: Communication Skills
-      description: Strong presentation and teamwork abilities, demonstrated through research and project collaborations.
-
-    - layout: text
-      title: Team Collaboration
-      description: Experience leading and participating in multi-disciplinary AI projects.         
-      
+  - title: Work Experience
+    layout: list
+    content:
+      - layout: text
+        title: Medical Artificial Intelligence (MAI) Lab, Wonju, South Korea
+        caption: 12/2022 - Present
+        sub_title: Undergraduate Researcher
+        description: |
+            - Developed and implemented ML models to analyze medical data (including over 160 CT image series, 600 MR brain images, and ECG and EEG data) for age prediction, heart disease detection, and anomaly detection.
+            - Applied deep learning techniques, including CNN and generative AI, to enhance image segmentation and disease detection accuracy.
+  
+  - title: Project Experience
+    layout: list
+    content:
+      - layout: text
+        title: Development of Automatic Spine Level Segmentation Software Using AI
+        caption: 03/2024 - 11/2024
+        sub_title: Team Member & Presenter
+        description: |
+            - Collaborated on an industry-academic project to develop a deep learning algorithm for automatic spine level identification using CT images, improving the F1 score by 0.15.
+            - Verified results with pre-trained models (DenseNet121, EfficientNetB0, ResNet34) and enhanced accuracy using data augmentation techniques like diffusion models and GANs.
+  
+      - layout: text
+        title: Non-Seen Handwritten Letter Image Sorting
+        caption: 03/2024 - 06/2024
+        sub_title: Developer
+        description: |
+            - Created an AI system to classify handwritten letter sequences using CNN and RNN, refining network structures through extensive experiments.
+            - Implemented LSTM networks for sequential data, improving validation accuracy, and optimized parameters like batch size, hidden size, and dropout rate via hyperparameter tuning.
+  
+      - layout: text
+        title: ML Based Age Prediction from MR Angiography Data
+        caption: 11/2023 - 05/2024
+        sub_title: Developer for MAI Lab
+        description: |
+            - Evaluated ML model performance using feature selection methods (CFS, Relief-F) to create feature subsets, with CFS yielding superior results.
+            - Analyzed key features influencing the model and utilized SHAP plots to visualize feature relationships.
+  
+      - layout: text
+        title: Deep Learning Project in ECG Classification
+        caption: 10/2023 - 12/2023
+        sub_title: Team Leader & Presenter
+        description: |
+            - Integrated BLSTM networks to capture temporal patterns in ECG data, achieving a slight accuracy improvement over the baseline model.
+            - Evaluated pre-trained models to optimize arrhythmia detection, selecting the best model based on F1 score.
+  
+      - layout: text
+        title: Medical Big Data Analytics Project
+        caption: 09/2023 - 04/2024
+        sub_title: Team Leader & Presenter
+        description: |
+            - Analyzed aging patterns using NHIS data, focusing on blood glucose and cholesterol level changes across age groups.
+            - Developed a regression model for age prediction, using SHAP to interpret key health features associated with aging.
+  
+      - layout: text
+        title: Assessing Machine Learning Models for Predicting Age
+        caption: 01/2023 - 10/2023
+        sub_title: Team Member
+        description: |
+            - Developed six ML models, including Random Forest, Linear Regression, and XGBoost, to predict age using MRA data features (e.g., vessel tortuosity and diameter).
+            - Led feature engineering, cross-validation, and hyperparameter tuning, improving RMSE and R² model performance.
+  
+      - layout: text
+        title: Research on EEG-Based Technology to Improve Drivers' Cognitive Abilities
+        caption: 03/2023 - 06/2023
+        sub_title: Developer
+        description: |
+            - Analyzed EEG data to detect patterns of cognitive impairment in drivers, identifying signs of impaired driving.
+            - Designed an application using JavaScript and developed a database system to store biometric and driving data.
+  
+  - title: Personal
+    layout: list
+    content:
+      - layout: text
+        title: Programming Languages
+        description: Python, C, Java
+  
+      - layout: text
+        title: Machine Learning & Deep Learning Technologies
+        description: Experience with ML models, deep learning frameworks, CNNs, RNNs, and generative AI.
+  
+      - layout: text
+        title: Big Data Analysis Tools
+        description: Experience with data processing, feature engineering, and ML model evaluation.
+  
+      - layout: text
+        title: Communication Skills
+        description: Strong presentation and teamwork abilities, demonstrated through research and project collaborations.
+  
+      - layout: text
+        title: Team Collaboration
+        description: Experience leading and participating in multi-disciplinary AI projects.         
+        
 
 # Footer
 footer_show_references: true
